@@ -1,0 +1,23 @@
+/*Custom CSS file*/
+
+body {
+	background: green;
+}
+
+#header-nav {
+	background-color: yellow;
+	border-radius: 0;
+	border:0;
+}
+
+#logo-img {
+	background: url('../../img/logo.jpg') no-repeat;
+	width: 100px;
+	height: 100px;
+	border-radius: 10px 5px 18px 2px;
+	margin: 10px 20px 30px 40px;
+}
+
+.pull-left {
+	border:1px solid red;
+}
